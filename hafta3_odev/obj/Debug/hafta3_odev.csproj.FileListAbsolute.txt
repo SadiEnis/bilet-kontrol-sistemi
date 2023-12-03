@@ -1,7 +1,0 @@
-D:\ceng\C#\Nesne Tabanlı Programlama\0.Odevler\hafta3_odev\hafta3_odev\bin\Debug\hafta3_odev.exe.config
-D:\ceng\C#\Nesne Tabanlı Programlama\0.Odevler\hafta3_odev\hafta3_odev\bin\Debug\hafta3_odev.exe
-D:\ceng\C#\Nesne Tabanlı Programlama\0.Odevler\hafta3_odev\hafta3_odev\bin\Debug\hafta3_odev.pdb
-D:\ceng\C#\Nesne Tabanlı Programlama\0.Odevler\hafta3_odev\hafta3_odev\obj\Debug\hafta3_odev.csproj.AssemblyReference.cache
-D:\ceng\C#\Nesne Tabanlı Programlama\0.Odevler\hafta3_odev\hafta3_odev\obj\Debug\hafta3_odev.csproj.CoreCompileInputs.cache
-D:\ceng\C#\Nesne Tabanlı Programlama\0.Odevler\hafta3_odev\hafta3_odev\obj\Debug\hafta3_odev.exe
-D:\ceng\C#\Nesne Tabanlı Programlama\0.Odevler\hafta3_odev\hafta3_odev\obj\Debug\hafta3_odev.pdb
