@@ -1,0 +1,32 @@
+Bilet Kontrol Sistemi
+|
+|Proje Başlangıç(18.10.2023 - Çarşamba)
+|	Person nesnesi
+|	|	Field'lar
+|	|	.	(string) ad, soyad, yas, kapı
+|	|	.	(int) cinsiyet, koltukNum
+|	|	.	(bool) bilet
+|	|
+|
+|	Bus nesnesi
+|	|	Field'ler
+|	|	.	(int) kapasite
+|	|	.	(Person) bağlantılıListe
+|	|	Metotlar
+|	|	.	(void) YolcuEkle
+|	|	.	(void) YolcuListele
+|	|	
+|
+|	Program
+|	|	Yolcular
+|	|	.	Kişilerin adı soyadı random belirlenmeli
+|	|	.	Belirlenirken bir isimlerin ve soyisimlerin tutulduğu diziye ihtiyaç var.
+|	|	.	Bu kişileri ön, orta ve arka kapılardan döngülerle yerleştirmeli.
+|	|	Menü
+|	|	.	Otobüs boşken menü olsun - kullanıcı doldursun - bir iş yapıyoor gibi hisseder :D
+|	|	.	Proje teslim tarihine süre yeterse(aksilik çıkmazsa) otobüs çizerim. Hoş durur, renkli falan.
+|	|	.	Biletleri de herkesi ayrı ayrı gösterir sonda da özet geçerim. Kullanıcı saymakla uğraşmasın.
+|		
+|Proje Bitiş(21.10.2023 - Cumartesi)
+|
+|Proje Teslim Tarihi (23.10.2023 - 06.59)
